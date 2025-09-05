@@ -2,9 +2,9 @@
 ! Дата: 2025-01-15
 
 ! Разрешения для Bybit
-@@||bybit.com^
-@@||api.bybit.com^
+!@@||bybit.com^
+!@@||api.bybit.com^
 
 ! Блокировка рекламы
-||doubleclick.net^
-||google-analytics.com^
+!||doubleclick.net^
+!||google-analytics.com^
